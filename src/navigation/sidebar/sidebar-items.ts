@@ -95,7 +95,7 @@ export const sidebarItems: NavGroup[] = [
     items: [
       {
         title: "Email",
-        url: "/dashboard/carousel2/src/app",
+        url: "/dashboard/carousel2/app",
         icon: Mail,
        
       },
